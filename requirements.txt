@@ -3,3 +3,4 @@ pickleshare
 streamlit
 scikit-learn
 streamlit-option-menu
+tensorflow
